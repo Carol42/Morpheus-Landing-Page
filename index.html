@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Acordando a sua empresa para o mercado!!"/>
+        <title>Morpheus Marketing</title>
+        <link rel="shortcut icon" href="./img/logo.ico">
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <main>
+            <!-- *************** HEADER *************** -->
+            <button onclick="topFunction()" id="topButton" title="Voltar ao topo">Topo</button>
+            <header>
+                <nav class="cabecalho-nav">
+                    <img class="logo" src="./img/logo.png">
+                        
+                    <ul>
+                        <li><a href="#sobre">Sobre</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Nossos Serviços</a></li>
+                        <li><a href="#contato">Contato</a></li>
+                    </ul>
+                </nav>
+               <div class="content-wrap">
+                <h1 class="titulo-principal">Morpheus Marketing</h1>
+                <h2 class="titulo2">Acordando a sua empresa para o mercado</h2>
+               </div>
+            </header>
+        </main>
+
+        <!-- ************** SOBRE *************** -->
+
+        <section id="sobre">
+            <div class="sobre-wrap">
+                <h2 class="subtitulos">Sobre nós</h2>
+                <div class="texto-sobre">
+                <p>Somos uma empresa que visa desenvolver soluções inovadoras unindo técnicas de  Marketing às mais novas e eficientes tecnologias do mercado para empresas de todos os ramos de atividade, a fim de potencializar seus resultados.</p>
+                <p>Nossos principais pilares são:</p>
+                <ul>
+                    <li><b>Tempo:</b> trabalhamos em ritmo acelerado, atendendo rigorosamente os prazos;</li>
+                    <li><b>Foco:</b> focado no empreendedor, oferecemos serviços de qualidade com preços acessíveis;</li>
+                    <li><b>Especialistas:</b> equipe especializada, com experiências profissionais, testamos todos os produtos antes do lançamento.</li>
+                </ul>
+                </div>
+                <div class="sobre-coelho">
+                    <p class="sobre-coelho">Siga o coelho branco e conheça o Mundo das Maravilhas do Marketing Digital!!</p>
+                </div>
+                <img class="coelho" src="./img/white-rabbit.png">
+            </div>
+        </section>
+
+        <!-- *************** CONTATO *************** -->
+        <section id="contato" class=" contato">
+            <div class="form-wrap">
+                <h2 class="subtitulos">Contato</h2>
+                <form>
+                <fieldset>
+                    <div class="contato-campo">
+                        <label for="nome">Nome: </label>
+                        <input type="text" id="nome" placeholder="" required >
+                    </div>
+                    <div class="contato-campo">
+                        <label for="email">E-mail: </label>
+                        <input type="text" id="email" placeholder=" " required >
+                    </div>
+                    <div class="contato-campo">
+                        <label for="">Telefone: </label>
+                        <input type="text" id="telefone" placeholder=""  >
+                    </div>
+                    <div class="contato-campo">
+                        <label for="mensagem">Mensagem: </label>
+                        <textarea id="mensagem" cols="30" rows="10" required ></textarea>
+                    </div>
+                    <div class="contato-campo check">
+                        <input type="checkbox" checked value="receber-novidades" class="contato-checkbox" id="receberEmail">
+                        <label for="receberEmail" class="contato-label">Desejo receber novidades por e-mail</label>
+                    </div>
+                    <div class="contato-campo">
+                        <button type="submit" class="botao-enviar">
+                            Enviar mensagem
+                        </button>
+                    </div>
+                </fieldset>
+                </form>
+               
+            </div>
+        </section>
+        <!-- *************** RODAPE *************** -->
+        <footer>
+            <div class="rodape">
+                <ul class="social-links">
+                    <li><a href="https://twitter.com/carol_heloo/" target="blank"> <i class="fa fa-twitter" style="font-size:36px"></i> </a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100070464602637" target="blank"> <i class="fa fa-facebook" style="font-size:36px"></i> </a></li>
+                    <li><a href="https://www.instagram.com/carol_helloo/" target="blank"> <i class="fa fa-instagram" style="font-size:36px"></i> </a></li>
+                    <li><a href="https://www.linkedin.com/in/caroline-helo%C3%ADse-de-oliveira-86059b109/" target="blank"> <i class="fa fa-linkedin" style="font-size:36px"></i> </a></li>
+                    <li><a href="https://github.com/Carol42" target="blank"> <i class="fa fa-github" style="font-size:36px"></i> </a></li>
+                </ul>
+                <p>&copy; 2021 Morpheus Marketing</p>
+            </div>
+        </footer>
+        <script src="./funcoes.js"></script>
+    </body>
+</html>
