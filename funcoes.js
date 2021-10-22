@@ -29,3 +29,31 @@ function typeWrite(elemento){
 }
 const titulo = document.querySelector('.titulo-principal');
 typeWrite(titulo);
+
+// MVV
+
+var tabLinks = document.querySelectorAll(".tablinks");
+var tabContent = document.querySelectorAll(".tabcontent");
+
+
+tabLinks.forEach(function(el) {
+el.addEventListener("click", openTabs);
+});
+
+
+function openTabs(el) {
+var btnTarget = el.currentTarget;
+var janela = btnTarget.dataset.janela;
+
+tabContent.forEach(function(el) {
+  el.classList.remove("active");
+});
+
+tabLinks.forEach(function(el) {
+  el.classList.remove("active");
+});
+
+document.querySelector("#" + janela).classList.add("active");
+
+btnTarget.classList.add("active");
+}
