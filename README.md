@@ -53,8 +53,4 @@ $ start index.html
 # Iniciar o projeto (Linux - Debian-based distros)
 $ xdg-open index.html
 ```
-### 👩‍💻 Autora
-
- <img src="https://avatars.githubusercontent.com/u/63017741?v=4" width="100px;" alt="/" style="border-radius: 50%;" />
- <br />
 Desenvolvido com &#x1F496; por Caroline Heloíse de Oliveira
