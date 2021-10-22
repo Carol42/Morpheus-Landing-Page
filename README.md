@@ -7,11 +7,9 @@
    <b>&#x1F517;  <a  href="https://morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4;">Acessar a demonstração</a></b>
 </h2>
 
-<h3>
-    <img src="https://drive.google.com/file/d/1_WhD_0oX5fAmwWZXSUkvDxcVJ7QQXoaQ/view?usp=sharing" alt="header da pagina" style="width: 48%; margin-top:10px; border: 2px solid black; " align="left">
-    <img src="https://drive.google.com/file/d/1sNlaMgN4_aXO170UEl_nD6T_ahQ0z_9P/view?usp=sharing" alt="seção  mvv da pagina" style="width:48%; margin-top:10px; border: 2px solid black;" align="right">
+<h3 align="center">
+    <img src="./img/header.gif" alt="header da pagina" style="width: 70%; margin-top:10px; border: 2px solid black;" >
 </h3>
-<iframe src="https://drive.google.com/file/d/1MS34nko1fUg5hCW2efNUNI1VbK4KgE48/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
@@ -28,7 +26,7 @@
 ---
 
 <h1 align="center">
-<img src="https://drive.google.com/file/d/1MS34nko1fUg5hCW2efNUNI1VbK4KgE48/view?usp=sharing" alt="overview da pagina" style="border: 2px solid black; width:70%">
+<img src="./img/screenshot-sobre.png" alt="sobre" width="70%">
 </h1>
 
 
