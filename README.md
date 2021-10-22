@@ -8,8 +8,8 @@
 </h2>
 
 <h3>
-    <img src="./img/header.gif" alt="header da pagina" style="width: 48%; margin-top:10px; border: 2px solid black; " align="left">
-    <img src="./img/mvv.gif" alt="seção  mvv da pagina" style="width:48%; margin-top:10px; border: 2px solid black;" align="right">
+    <img src="https://drive.google.com/file/d/1_WhD_0oX5fAmwWZXSUkvDxcVJ7QQXoaQ/view?usp=sharing" alt="header da pagina" style="width: 48%; margin-top:10px; border: 2px solid black; " align="left">
+    <img src="https://drive.google.com/file/d/1sNlaMgN4_aXO170UEl_nD6T_ahQ0z_9P/view?usp=sharing" alt="seção  mvv da pagina" style="width:48%; margin-top:10px; border: 2px solid black;" align="right">
 </h3>
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 <h1 align="center">
-<img src="./img/scroll.gif" alt="overview da pagina" style="border: 2px solid black; width:70%">
+<img src="https://drive.google.com/file/d/1MS34nko1fUg5hCW2efNUNI1VbK4KgE48/view?usp=sharing" alt="overview da pagina" style="border: 2px solid black; width:70%">
 </h1>
 
 
@@ -55,11 +55,10 @@ $ start index.html
 $ xdg-open index.html
 ```
 ### 👩‍💻 Autora
----
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/63017741?v=4" width="100px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/63017741?v=4" width="100px;" alt="/" style="border-radius: 50%;" />
  <br />
- <sub><b>Caroline Oliveira </b><a href="https://www.linkedin.com/in/caroline-helo%C3%ADse-de-oliveira-86059b109/" ><svg width="20px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a></sub> 
+ <sub><b>Caroline Oliveira </b></sub> 
 <br/><br/>
 
 Desenvolvido com &#x1F496; por Caroline Heloíse de Oliveira
