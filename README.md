@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./img/logo2.png" alt="morpheus marketing logo">
+<img src="./img/logo2.png" alt="morpheus marketing logo" width="70%">
 </h1>
 <h3 align="center">&#x1F48A; Acordando a sua empresa para o mercado</h3>
 <p align="center"><i>“Remember, all I’m offering is the truth. Nothing more."   - Morpheus, ‘The Matrix' (1999)</i> </p>
