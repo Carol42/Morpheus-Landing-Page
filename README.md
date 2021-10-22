@@ -57,7 +57,4 @@ $ xdg-open index.html
 
  <img src="https://avatars.githubusercontent.com/u/63017741?v=4" width="100px;" alt="/" style="border-radius: 50%;" />
  <br />
- <sub><b>Caroline Oliveira </b></sub> 
-<br/><br/>
-
 Desenvolvido com &#x1F496; por Caroline Heloíse de Oliveira
