@@ -4,7 +4,7 @@
 <h3 align="center">&#x1F48A; Acordando a sua empresa para o mercado</h3>
 <p align="center"><i>“Remember, all I’m offering is the truth. Nothing more."   - Morpheus, ‘The Matrix' (1999)</i> </p>
 <h2 align="center" >
-   <b>&#x1F517;  <a  href="https://morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4; target="blank">Acessar a demonstração</a></b>
+   <b>&#x1F517;  <a  href="https://morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4; target="_blank">Acessar a demonstração</a></b>
 </h2>
 
 <h3 align="center">
