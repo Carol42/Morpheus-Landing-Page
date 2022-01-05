@@ -12,9 +12,9 @@
    
    <img src="https://img.shields.io/static/v1?label=✔ status&message=finished&color=2B6E34&style=plastic&logo=" alt="status: finished"/>
  </div>
-<h2 align="center" >
+<h3 align="center" >
    <b>&#x1F517;  <a  href="https://Morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4;">Go to the preview (Vercel)</a></b>
-</h2>
+</h3>
 <h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a>
 </h4>
 
@@ -48,12 +48,11 @@
 <p>This way, Morpheus's main goal is to "awake" those companies, demonstrating all the potential that Digital Marketing can have in leveraging their results.</p>
 <p>This company concept was inspired by my Final Paper of the Business Administration Course, written in 2020. To see more about it, you can open the PDF <a href="https://drive.google.com/file/d/1TF01c4rWMB9ROPSLJ_wq8yyNkE38nF9o/view?usp=sharing">here</a>.</p>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=2B6E34&style=flat&logo" alt="back to top" /></a></p>
-
 <div align="center">
 <img src="./img/screenshot-sobre.png" alt="sobre" width="70%">
 </div>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=2B6E34&style=flat&logo" alt="back to top" /></a></p>
 
 ## :hammer_and_wrench: Technologies
 
