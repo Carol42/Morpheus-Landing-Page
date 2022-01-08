@@ -7,9 +7,10 @@
  <div align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Morpheus-Landing-Page?color=181717&logo=github&style=plastic&logoColor=181717">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Carol42/Morpheus-Landing-Page?style=plastic&color=2B6E34">
-   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/Morpheus-Landing-Page?color=1572B6&logo=css3&style=plastic&logoColor=1572B6">
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/Morpheus-Landing-Page?color=181717&logo=github&logoColor=181717&style=plastic">
-   <img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=2B6E34&style=plastic&logo=" alt="status: concluído"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/Morpheus-Landing-Page?color=1572B6&logo=css3&style=plastic&logoColor=1572B6">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/Morpheus-Landing-Page?color=181717&logo=github&logoColor=181717&style=plastic">
+  <img alt="date created" src="https://badges.pufler.dev/created/Carol42/Morpheus-Landing-Page?style=plastic&color=2B6E34">
+  <img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=2B6E34&style=plastic&logo=" alt="status: concluído"/>
  </div>
 <h3 align="center" >
    <b>&#x1F517;  <a  href="https://Morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4;">Acessar a demonstração</a></b>
