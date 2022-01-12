@@ -1,6 +1,6 @@
 <div id=top></div>
 <h1 align="center">
-<img src="./img/logo2.png" alt="Morpheus marketing logo" width="70%">
+<img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/logo2.png" alt="Morpheus marketing logo" width="70%">
 </h1>
 <h2 align="center">&#x1F48A; Awakening your company to the market</h2>
 <p align="center"><i>“Remember, all I’m offering is the truth. Nothing more."   - Morpheus, ‘The Matrix' (1999)</i> </p>
@@ -15,12 +15,12 @@
 <h3 align="center" >
    <b>&#x1F517;  <a  href="https://Morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4;">Go to the preview (Vercel)</a></b>
 </h3>
-<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a>
-</h4>
 
-<div align="center">
-    <img src="./img/header.gif" alt="header da pagina" style="width: 70%; margin-top:10px; border: 2px solid black;" >
-</div>
+<!--<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a></h4>-->
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
 
 <details>
     <summary>Table of Contents</summary>
@@ -40,6 +40,10 @@
 <p>This project was one of the phases of the selective process of the E<sup>2</sup>C Júnior (Computer Engineering Junior Enterprise, from State University of Ponta Grossa).</p>
 <p>The proposal was to build a Landing Page. We had the freedom to choose what it was about, but we had some evaluation criteria that we needed to meet.</p>
 
+<div align="center">
+    <img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/header.gif" alt="page header" width="80%">
+</div>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=2B6E34&style=flat&logo" alt="back to top" /></a></p>
 
 ## :dark_sunglasses: The concept
@@ -49,7 +53,7 @@
 <p>This company concept was inspired by my Final Paper of the Business Administration Course, written in 2020. To see more about it, you can open the PDF <a href="https://drive.google.com/file/d/1TF01c4rWMB9ROPSLJ_wq8yyNkE38nF9o/view?usp=sharing">here</a>.</p>
 
 <div align="center">
-<img src="./img/screenshot-sobre.png" alt="sobre" width="70%">
+<img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/screenshot-sobre.png" alt="about section screenshot" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=2B6E34&style=flat&logo" alt="back to top" /></a></p>
