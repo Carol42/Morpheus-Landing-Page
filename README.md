@@ -1,6 +1,6 @@
 <div id=topo></div>
 <h1 align="center">
-<img src="./img/logo2.png" alt="Morpheus marketing logo" width="70%">
+<img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/logo2.png" alt="Morpheus marketing logo" width="70%">
 </h1>
 <h2 align="center">&#x1F48A; Acordando a sua empresa para o mercado</h2>
 <p align="center"><i>“Remember, all I’m offering is the truth. Nothing more."   - Morpheus, ‘The Matrix' (1999)</i> </p>
@@ -15,12 +15,12 @@
 <h3 align="center" >
    <b>&#x1F517;  <a  href="https://Morpheus-marketing-carol42.vercel.app/" style="color:#9AE6A4;">Acessar a demonstração</a></b>
 </h3>
-<h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
-</h4>
+<!--<h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a></h4>-->
 
-<div align="center">
-    <img src="./img/header.gif" alt="header da pagina" style="width: 70%; margin-top:10px; border: 2px solid black;" >
-</div>
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
 
 <details>
     <summary>Sumário</summary>
@@ -39,6 +39,10 @@
 <p>Esse projeto faz parte de uma das etapas do processo seletivo da E2C Júnior (Empresa Júnior de Engenharia de Computação, da Universidade Estadual de Ponta Grossa).</p>
 <p>A proposta era criar uma Landing Page de uma empresa com temática livre, mas seguindo alguns critérios de avaliação.</p>
 
+<div align="center">
+    <img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/header.gif" alt="header da pagina" width="80%" >
+</div>
+
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=2B6E34&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :dark_sunglasses: O conceito
@@ -48,7 +52,7 @@
 <p>O cenceito dessa empresa foi inspirado no meu TCC do curso Técnico em Administração, elaborado em 2020. Para saber mais sobre ele, acesse o  PDF <a href="https://drive.google.com/file/d/1TF01c4rWMB9ROPSLJ_wq8yyNkE38nF9o/view?usp=sharing">aqui</a>.</p>
 
 <div align="center">
-<img src="./img/screenshot-sobre.png" alt="sobre" width="70%">
+<img src="https://github.com/Carol42/Morpheus-Landing-Page/blob/main/img/screenshot-sobre.png" alt="screenshot da seção sobre" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=2B6E34&style=flat&logo" alt="voltar ao topo" /></a></p>
